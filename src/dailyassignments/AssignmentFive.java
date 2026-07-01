@@ -21,7 +21,7 @@ public class AssignmentFive {
 		char A='A';
 		while(A<='Z')
 		{
-			int numone=(int) A;
+			int numone=A;
 			
 			System.out.println(A+" = "+numone);
 			A++;
