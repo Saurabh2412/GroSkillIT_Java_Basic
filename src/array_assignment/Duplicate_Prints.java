@@ -19,7 +19,7 @@ public class Duplicate_Prints {
 				}
 				
 			}
-			if(flag==false)
+			if(flag==false) 
 			{
 				System.out.println(arr[i]);
 			}
