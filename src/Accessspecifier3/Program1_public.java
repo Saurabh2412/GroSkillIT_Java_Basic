@@ -14,8 +14,8 @@ class Parent{
 
 class Child extends Parent{
 	
-	void hello()
-	{
-		System.out.println("bye");
-	}
+//	void hello()
+//	{
+//		System.out.println("bye");
+//	}
 }
